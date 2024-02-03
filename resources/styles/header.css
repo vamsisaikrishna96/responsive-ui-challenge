@@ -32,6 +32,10 @@
   font-size: 14px;
 }
 
+.nav-item {
+  cursor: pointer;
+}
+
 .nav-item-btn {
   height: 37px;
   width: 124px;
@@ -42,6 +46,7 @@
 .header-logo-img {
   height: 56px;
   width: 220px;
+  cursor: pointer;
 }
 
 /* hamburger code  */
